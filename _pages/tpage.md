@@ -1,6 +1,6 @@
 ---
 permalink: /tpage/
-title: "Test Page"
+title: "Vztah mezi člověkem a psem – klíč k úspěšnému výcviku"
 header:
   image: "/assets/images/front_julka_1280x555.jpg"
 ---
