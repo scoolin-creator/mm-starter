@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Cokl"
 layout: splash
 header:
   ovarlay_color: #000
