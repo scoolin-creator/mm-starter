@@ -24,7 +24,6 @@ github_username: username
 minimal_mistakes_skin: neon # air # default
 search: true
 locale: cs-CZ
-teaser: "/assets/images/bio-photo.jpg"
 
 # Build settings
 markdown: kramdown
@@ -59,6 +58,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+header:
+  teaser: "/assets/images/julka.jpg"
+  
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
