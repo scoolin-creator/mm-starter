@@ -3,7 +3,6 @@ permalink: /tpage/
 title: "Test Page"
 excerpt: "neco
 neco
-neco
 neco"
 header:
   image: "/assets/images/front_julka_1280x555.jpg"
