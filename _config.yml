@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 facebook_username: Cair Griffin Julie
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: neon # air # default
+minimal_mistakes_skin: dark #neon # air # default
 search: true
 locale: cs-CZ
 
@@ -62,9 +62,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-header:
-  teaser: "/assets/images/julka.jpg"
-  
 author:
   name   : "Julie Ledvinkova"
   avatar : "/assets/images/bio_julka2.jpg"
