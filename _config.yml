@@ -24,7 +24,7 @@ github_username: username
 minimal_mistakes_skin: neon # air # default
 search: true
 locale: cs-CZ
-teaser: /assets/images/julka.jpg
+teaser: "/assets/images/julka.jpg"
 
 # Build settings
 markdown: kramdown
