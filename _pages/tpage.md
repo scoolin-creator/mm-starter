@@ -1,6 +1,7 @@
 ---
 permalink: /tpage/
 title: "Test Page"
+excerpt: "\n\n"
 header:
   image: "/assets/images/front_julka_1280x555.jpg"
 ---
