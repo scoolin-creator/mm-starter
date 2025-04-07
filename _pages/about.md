@@ -2,7 +2,8 @@
 permalink: /about/
 title: "About Cokl"
 layout: splash
-excerpt: "excerpt"
+excerpt: "excerpt
+dsfa"
 header:
   ovarlay_color: #000
   overlay_filter: 0.5
