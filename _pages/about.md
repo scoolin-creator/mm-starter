@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Cokl"
-layout: splash
+layout: single
 header:
   image: "/assets/images/front_cumime_1120x400.jpg"
 ---
