@@ -1,4 +1,6 @@
 main:
+  - title: "Test"
+    url: /tpage/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
