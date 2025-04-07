@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Cokl"
+title: "kdo jsem"
 layout: single
 header:
   image: "/assets/images/front_cumime_1120x400.jpg"
