@@ -1,11 +1,11 @@
 main:
-  - title: "Test"
+  - title: "Home"
     url: /tpage/
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "About2"
+    url: /about2/
+  #- title: "Categories"
+    #url: /categories/
+  #- title: "Tags"
+    #url: /tags/
