@@ -52,5 +52,8 @@ feature_row2:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+Libovolny text muze byt v podstate kdekoliv...
 {% include feature_row %}
+...ale je to asi zbytecny...
 {% include feature_row id="feature_row2" %}
+...mozna by jsi tech sub-pages chtela vic. Nebo min. Muzem pridat treba ceni, galerii, nejaky novinky co si tam budes dojebavat. Nvm, definuj trochu lip svoji jasnou predstavu!
