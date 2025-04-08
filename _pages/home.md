@@ -92,9 +92,9 @@ Libovolny text muze byt v podstate kdekoliv...
 
 Jo a ty obrazky nemusi byt v mrizce 3xn muze to byt treba 4xn nebo cokoliv. Nemusi to byt ani mrizka, muze to byt prava/leva. Ja nevim jak to chces...
 
-{% include feature_row id="feature_row3" type="left"}
-{% include feature_row id="feature_row4" type="right"}
-{% include feature_row id="feature_row5" type="left"}
-{% include feature_row id="feature_row6" type="right"}
+{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row4" type="right" %}
+{% include feature_row id="feature_row5" type="left" %}
+{% include feature_row id="feature_row6" type="right" %}
 
 ...muhehe, docela me tesi jak jsem se s tim nacil pracovat...
