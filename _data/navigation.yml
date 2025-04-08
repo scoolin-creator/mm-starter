@@ -5,6 +5,8 @@ main:
     url: /about/
   - title: "About2"
     url: /about2/
+  - title: "About3"
+    url: /about3/
   - title: "Posts"
     url: /posts/
   #- title: "Categories"
