@@ -8,9 +8,8 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
-excerpt: >
+excerpt: <br>
   Individuální výcvik a převýchova nejen československých vlčáků metodou pozitivní motivace, která zlepšuje vztah mezi člověkem a psem.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.26.2">Latest release v4.26.2</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
