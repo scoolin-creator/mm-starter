@@ -40,7 +40,7 @@ feature_row2:
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Bla NVM"
-    excerpt: "Nevim co sem. Vymysli neco. Mozna zvlastni stranku na ty stenata a prevzeti?"
+    excerpt: "Nevim co sem. Vymysli neco. Mozna zvlastni stranku na ty stenata a prevzeti? Nebo nejaka galerie?"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
