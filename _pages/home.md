@@ -52,3 +52,4 @@ feature_row:
     btn_label: "Learn more"      
 ---
 {% include feature_row %}
+dopice dopice dopice dopice!
