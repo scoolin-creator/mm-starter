@@ -1,7 +1,7 @@
 ---
 permalink: /about3/
 title: "kdo jsem"
-layout: single
+layout: wide
 header:
   overlay_image: "/assets/images/front_cokl_1280x400.jpg"
 ---
