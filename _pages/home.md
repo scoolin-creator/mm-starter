@@ -28,7 +28,8 @@ feature_row:
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
+feature_row2:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Mushing"
@@ -53,3 +54,4 @@ feature_row:
 ---
 {% include feature_row %}
 dopice dopice dopice dopice!
+{% include feature_row2 %}
