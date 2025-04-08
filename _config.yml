@@ -18,10 +18,10 @@ subtitle: "Julie Ledvinkova"
 logo: "/assets/images/logo.png"
 description: &description "Trener psu a zdivocely optimista"
 email: mailbox@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
 facebook_username: Cair Griffin Julie
 twitter_username: username
 github_username: username
@@ -98,15 +98,29 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/cair.potomokvlkov"
+    - label: "Group"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/groups/172411483242882"
+    - label: "Treninky"
+      icon: "fas fa-fw fa-paw"
+      url: "https://cvicakunetice.dogres.cz/trainings"
+    - label: "julie.ledvinka@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:julie.ledvinka@gmail.com"
+    - label: "777 777 771"
+      icon: "fas fa-fw fa-phone"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 defaults:
   # _posts
