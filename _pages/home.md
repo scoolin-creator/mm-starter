@@ -10,7 +10,7 @@ excerpt: <br>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Vycvik"
+    title: "Individualni vycvik"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
@@ -18,14 +18,14 @@ feature_row:
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Dog Camps"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: "Poradame vycvikove tabory."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "Kryti"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    excerpt: "Mam psa, co mrda jak kralik!"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -33,21 +33,21 @@ feature_row2:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Mushing"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    excerpt: "Psi tahaji sane, karky, cokoliv. Licou s tim jak magori."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Bla NVM"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: "Nevim co sem. Vymysli neco. Mozna zvlastni stranku na ty stenata a prevzeti?"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "O me"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    excerpt: "Jsem skromna a nejlepsi!"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
