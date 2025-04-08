@@ -9,21 +9,21 @@ excerpt: <br>
   Individuální výcvik a převýchova nejen československých vlčáků metodou pozitivní motivace, která zlepšuje vztah mezi člověkem a psem.<br />
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
+    alt: "individualni vycvik"
     title: "Individualni vycvik"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    excerpt: "Cvicim nekolikrat v tydnu tady, tady a tady plus v Nedeli mivam vycvikove dny."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
+    alt: "vycvikove tabory"
     title: "Dog Camps"
     excerpt: "Poradame vycvikove tabory."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
+    alt: "pes na prcani"
     title: "Kryti"
     excerpt: "Mam psa, co mrda jak kralik!"
     url: "/docs/license/"
@@ -31,7 +31,7 @@ feature_row:
     btn_label: "Learn more"
 feature_row2:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
+    alt: "mushing"
     title: "Mushing"
     excerpt: "Psi tahaji sane, karky, cokoliv. Licou s tim jak magori."
     url: "/docs/configuration/"
@@ -45,7 +45,7 @@ feature_row2:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
+    alt: "about"
     title: "O me"
     excerpt: "Jsem skromna a nejlepsi!"
     url: "/docs/license/"
