@@ -79,7 +79,7 @@ feature_row6:
   - image_path: /assets/images/about_500x300.jpg
     alt: "about"
     title: "O me"
-    excerpt: "Jsem skromna a nejlepsi! A jako takova, umim vzdy najit nejakyho magora na hoknu co neumim, nebo nechci delat :P"
+    excerpt: "Jsem skromna a nejlepsi! A jako takova, umim vzdy najit nejakyho troubu na hoknu co neumim, nebo nechci delat :P"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
