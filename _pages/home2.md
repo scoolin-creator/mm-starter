@@ -31,7 +31,7 @@ feature_row3:
     url: "/about3/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-feature-row4:
+feature_row4:
   - image_path: /assets/images/mushing_500x300.jpg
     alt: "mushing"
     title: "Mushing"
