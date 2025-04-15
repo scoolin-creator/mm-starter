@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 excerpt: >
   . <br /> <br /> <br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.26.2">Latest release v4.26.2</a></small>
 header:
   overlay_image: "/assets/images/front_cumime_1120x400.jpg"
 ---
