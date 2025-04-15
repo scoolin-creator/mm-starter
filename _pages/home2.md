@@ -56,7 +56,7 @@ feature_row6:
     btn_class: "btn--primary"
     btn_label: "Learn more" 
 ---
-Me sluzby...
+**Me sluzby...**
 {% include feature_row type="right" %}
 {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="right" %}
