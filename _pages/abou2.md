@@ -3,10 +3,9 @@ permalink: /about2/
 title: "kdo jsem"
 layout: single
 author_profile: true
+excerpt: "toto je excerpt text!"
 header:
   overlay_image: "/assets/images/front_cumime_1120x400.jpg"
-  excerpt: "toto je excerpt text!"
-  show_overlay_excerpt: true
 ---
 
 Se psy pracuji už více než 26 let a celé to začalo v mém dětství, kdy jsem vyrůstala ve smečce, která mě naučila „mluvit jejich řečí“. Pozorováním jsem získala hluboké porozumění nejen pro komunikaci mezi psy, ale i mezi člověkem a psem. Zkušenosti jsem sbírala v různých oblastech – od agility, přes sportovní kynologii, mushing, dogtrekking až po výstavy. I když mě tyto aktivity nesmírně bavily, pro mě je vždy na prvním místě vztah se psem – důvěra, vzájemný respekt a radost ze spolupráce.
