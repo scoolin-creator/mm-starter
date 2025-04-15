@@ -1,6 +1,10 @@
 ---
 permalink: /about3/
 title: "kdo jsem"
+excerpt: >
+
+
+</br>
 layout: splash
 header:
   overlay_image: "/assets/images/front_cokl_1280x400.jpg"
