@@ -3,7 +3,7 @@ permalink: /about2/
 title: "kdo jsem"
 layout: single
 author_profile: true
-excerpt: "toto je excerpt text!"
+excerpt: "toto je \nexcerpt text\n!"
 header:
   overlay_image: "/assets/images/front_cumime_1120x400.jpg"
 ---
