@@ -4,9 +4,7 @@ title: "kdo jsem"
 layout: single
 author_profile: true
 excerpt: >
-  A flexible two-column
-  Jekyll
-  theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  A flexible two-column <br />Jekyll<br /> theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.26.2">Latest release v4.26.2</a></small>
 header:
   overlay_image: "/assets/images/front_cumime_1120x400.jpg"
