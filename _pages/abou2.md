@@ -3,7 +3,9 @@ permalink: /about2/
 title: "kdo jsem"
 layout: single
 author_profile: true
-excerpt: "toto je \nexcerpt text\n!"
+excerpt: "toto je \nexcerpt text\n!
+dalsi radek
+a dalsi radek"
 header:
   overlay_image: "/assets/images/front_cumime_1120x400.jpg"
 ---
