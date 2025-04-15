@@ -1,7 +1,7 @@
 ---
 permalink: /about2/
 title: "kdo jsem"
-excerpt: ""
+excerpt: "\n\n\n"
 layout: splash
 header:
   overlay_image: "/assets/images/front_cumime_1120x400.jpg"
