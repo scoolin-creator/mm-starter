@@ -1,10 +1,7 @@
 ---
 permalink: /about3/
 title: "kdo jsem"
-excerpt: >
-
-
-</br>
+excerpt: "neco malo o moji velikosti"
 layout: splash
 header:
   overlay_image: "/assets/images/front_cokl_1280x400.jpg"
