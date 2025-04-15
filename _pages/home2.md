@@ -5,8 +5,8 @@ title: " "
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/front_cokl_1280x400.jpg
-excerpt: <br>
-  Individuální výcvik a převýchova nejen československých vlčáků metodou pozitivní motivace, která zlepšuje vztah mezi člověkem a psem.<br />
+excerpt: >
+  Individuální výcvik a převýchova nejen československých vlčáků metodou pozitivní motivace, která zlepšuje vztah mezi člověkem a psem.<br><br><br />
 feature_row:
   - image_path: /assets/images/vycvik3_500x300.jpg
     alt: "individualni vycvik"
