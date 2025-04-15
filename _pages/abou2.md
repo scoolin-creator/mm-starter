@@ -2,6 +2,7 @@
 permalink: /about2/
 title: "kdo jsem"
 layout: splash
+author_profile: true
 header:
   image: "/assets/images/front_cumime_1120x400.jpg"
 ---
