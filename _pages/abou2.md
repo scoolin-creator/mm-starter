@@ -4,7 +4,7 @@ title: "kdo jsem"
 layout: single
 author_profile: true
 excerpt: >
-  . <br /> <br /> <br />
+  . <br> <br> <br>
 header:
   overlay_image: "/assets/images/front_cumime_1120x400.jpg"
 ---
