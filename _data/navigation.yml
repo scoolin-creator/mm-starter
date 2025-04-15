@@ -1,16 +1,18 @@
 main:
   - title: "Home"
     url: /home2/
-  - title: "Bla"
+  - title: "Vycvik"
     url: /tpage/
-  - title: "About"
+  - title: "Tabory"
     url: /about/
-  - title: "About2"
+  - title: "Kryti"
     url: /about2/
-  - title: "About3"
+  - title: "Mushing"
     url: /about3/
-  - title: "Posts"
+  - title: "NVM"
     url: /posts/
+  - title: "O me"
+    url: /tpage/
   #- title: "Categories"
     #url: /categories/
   #- title: "Tags"

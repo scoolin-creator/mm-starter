@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /home2/
-title: Individualni vycvik
+title: " "
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/front_cokl_1280x400.jpg
@@ -28,7 +28,7 @@ feature_row3:
     alt: "pes na prcani"
     title: "Kryti"
     excerpt: "Mam psa, co mrda jak kralik! Jmenuje se Lojzik a je to sampion celeho vesmiru."
-    url: "/about3/"
+    url: "/about2/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row4:
@@ -36,7 +36,7 @@ feature_row4:
     alt: "mushing"
     title: "Mushing"
     excerpt: "Psi tahaji sane, karky, cokoliv. Licou s tim jak magori. Najebes jim tam decka a nevis o nich tri dny."
-    url: "/about2/"
+    url: "/about3/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row5:
@@ -52,7 +52,7 @@ feature_row6:
     alt: "about"
     title: "O me"
     excerpt: "Jsem skromna a nejlepsi! A jako takova, umim vzdy najit nejakyho troubu na hoknu co neumim, nebo nechci delat :P"
-    url: "/docs/license/"
+    url: "/about2/"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
 ---
