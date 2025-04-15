@@ -8,6 +8,7 @@ excerpt: >
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.26.2">Latest release v4.26.2</a></small>
 header:
   overlay_image: "/assets/images/front_cumime_1120x400.jpg"
+  show_overlay_excerpt: false
 ---
 
 Se psy pracuji už více než 26 let a celé to začalo v mém dětství, kdy jsem vyrůstala ve smečce, která mě naučila „mluvit jejich řečí“. Pozorováním jsem získala hluboké porozumění nejen pro komunikaci mezi psy, ale i mezi člověkem a psem. Zkušenosti jsem sbírala v různých oblastech – od agility, přes sportovní kynologii, mushing, dogtrekking až po výstavy. I když mě tyto aktivity nesmírně bavily, pro mě je vždy na prvním místě vztah se psem – důvěra, vzájemný respekt a radost ze spolupráce.
