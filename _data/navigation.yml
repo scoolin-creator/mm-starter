@@ -1,5 +1,7 @@
 main:
   - title: "Home"
+    url: /home2/
+  - title: "Bla"
     url: /tpage/
   - title: "About"
     url: /about/
