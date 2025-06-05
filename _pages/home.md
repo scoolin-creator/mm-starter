@@ -79,8 +79,8 @@ feature_row6:
     btn_label: "Číst více"    
 feature_row7:
   - image_path: /assets/images/about_500x300.jpg
-    alt: "about"
-    title: "O me"
+    alt: "About"
+    title: "O mně"
     excerpt: "Cílem mé práce se psy je zlepšit vztah mezi psem a jeho člověkem, pomoci vzájemnému porozumění, naučit žádoucí chování bez nátlaku a v přátelské atmosféře. Sportovní kynologie je nadstavba vztahu a měla by být aktivně a příjemně stráveným společným časem."
     url: "/tpage/"
     btn_class: "btn--primary"
@@ -93,5 +93,3 @@ feature_row7:
 {% include feature_row id="feature_row7" type="left" %}
 
 Výcvik je možné začít už ve 3 měsících věku. Můžeme se domluvit na individuálních lekcích či výcvikových procházkách přímo v místě vašeho bydliště (návyk na auto, řešení tahání na vodítku, útočení na psy apod.),kontaktujte mě.
-
-Kdyz to doctes az sem, tak mrkni jeste na [ **Home** ]({{ "/tpage/ " | relative_url }}) a [ **About** ]({{ "/about/ " | relative_url }}), checkni tam ty texty - psala to AI. Pak mi zavolej...
