@@ -57,24 +57,24 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/vycvik3_500x300.jpg
     alt: "individualni vycvik"
-    title: "Individualni vycvik"
-    excerpt: "Cvicim nekolikrat v tydnu tady, tady a tady plus v Nedeli byvaji vycvikove dny."
+    title: "Výcvik"
+    excerpt: "Nabízím funkční program přípravy na zkoušky sportovní kynologie v kategoriích stopa a poslušnost. Cvičím v tvůrčí atmosféře bez stresu a frustrace, cílem je nadšený pes a jeho sebevědomý vůdce. Výcvik poslušnosti probíhá skupinově i individuálně několikrát v týdnu. V neděli bývá výcvikový den, kdy po poslušnostech následuje nácvik obran s figurantem. Podmínkou k přípravě na zkoušky je plně zvládnutá socializace psa."
     url: "/tpage/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Hey more"
 feature_row4:
   - image_path: /assets/images/kryti_500x300.jpg
-    alt: "pes na prcani"
-    title: "Kryti"
-    excerpt: "Mam psa, co mrda jak kralik! Jmenuje se Lojzik a je to sampion celeho vesmiru."
+    alt: "Vychova a socializace"
+    title: "Výchova a socializace"
+    excerpt: "Lekce provozní poslušnosti a socializace probíhají na cvičišti ve Zdicích, Úněticích a výcvikové hale Dog Academy Beroun. Pracuji s malou skupinkou psovodů se psy od 3 měsíců do vysokého věku. Lépe jim 'vidím pod ruce' než při hromadném pořadovém cvičení. V těchto lekcích kombinujeme základní ovladatelnost (přivolání od rušivých vlivů, například cizích psů, odložení v rušném prostředí, práce u nohy psovoda), rozvíjení kořistnického pudu a základy aportování, schopnost fungovat za přítomnosti ostatních psů, ale i schopnost komunikovat s různými typy psů. Na mých lekcích se potká čivava, setr, doga i německý ovčák a učí se vzájemně respektovat."
     url: "/about3/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row5:
   - image_path: /assets/images/vycvik_500x300.jpg
-    alt: "fully responsive"
-    title: "Bla NVM"
-    excerpt: "Nevim co sem. Vymysli neco. Mozna zvlastni stranku na ty stenata a prevzeti? Nebo nejaka galerie? Co ja vim DPC..."
+    alt: "vycvikove tabory"
+    title: "Výcvikové tábory"
+    excerpt: "Pořádám jarní, letní i podzimní týdenní výcvikové pobyty, kde si pes nejlépe upevní naučené chování a dovednosti. Zážitkové tábory jsou nenahraditelné, po týdnu se Shadow training z vás a vašeho psa bude stmelený tým se spoustou nových zkušeností. Na táborech se trénují pachové práce, poslušnost, sportovní obrany, nácvik zkouškového prostředí, výstavy i bonitace. Na konci tábora obvykle organizuji zkoušky z výkonu psů podle NZŘ/MZŘ. Kapacita táborů je omezená, týmům se věnuji opravdu zevrubně."
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
