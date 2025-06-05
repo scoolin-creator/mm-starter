@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /home2/
+permalink: /domu/
 title: " "
 header:
   overlay_color: "#5e616c"
