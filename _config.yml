@@ -26,7 +26,7 @@ facebook_username: Cair Griffin Julie
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark #neon # air # default
-search: true
+search: false
 locale: cs-CZ
 
 # Build settings
