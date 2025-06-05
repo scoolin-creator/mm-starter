@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/front_cokl_1280x400.jpg
 excerpt: <br>
-  Výchova a výcvik psů všech plemen postavená na metodě pozitivní motivace (operantní podmiňování) s individuálním a respektujícím přístupem ke každému psu i jeho majiteli. Náprava problémového chování. Příprava na zkoušky z výkonu.
+  Individuální výcvik a převýchova nejen československých vlčáků metodou pozitivní motivace, která zlepšuje vztah mezi člověkem a psem.
   
   
   <br />
@@ -71,10 +71,13 @@ feature_row4:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row5:
-  - image_path: /assets/images/dog_camp_500x300.jpg
+  - image_path: /assets/images/vycvik_500x300.jpg
     alt: "vycvikove tabory"
     title: "Výcvikové tábory"
     excerpt: "Pořádám jarní, letní i podzimní týdenní výcvikové pobyty, kde si pes nejlépe upevní naučené chování a dovednosti. Zážitkové tábory jsou nenahraditelné, po týdnu se Shadow training z vás a vašeho psa bude stmelený tým se spoustou nových zkušeností. Na táborech se trénují pachové práce, poslušnost, sportovní obrany, nácvik zkouškového prostředí, výstavy i bonitace. Na konci tábora obvykle organizuji zkoušky z výkonu psů podle NZŘ/MZŘ. Kapacita táborů je omezená, týmům se věnuji opravdu zevrubně."
+    url: "/posts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 feature_row6:
   - image_path: /assets/images/about_500x300.jpg
     alt: "about"
