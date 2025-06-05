@@ -70,7 +70,7 @@ feature_row5:
     title: "Výcvikové tábory"
     excerpt: "Pořádám jarní, letní i podzimní týdenní výcvikové pobyty, kde si pes nejlépe upevní naučené chování a dovednosti. Zážitkové tábory jsou nenahraditelné, po týdnu se Shadow training z vás a vašeho psa bude stmelený tým se spoustou nových zkušeností. Na táborech se trénují pachové práce, poslušnost, sportovní obrany, nácvik zkouškového prostředí, výstavy i bonitace. Na konci tábora obvykle organizuji zkoušky z výkonu psů podle NZŘ/MZŘ. Kapacita táborů je omezená, týmům se věnuji opravdu zevrubně."
 feature_row6:
-  - image_path: /assets/images/kryti_500x300.jpg
+  - image_path: /assets/images/mushing_500x300.jpg
     alt: "MojiPsi"
     title: "Moji psi"
     excerpt: "V současné době cvičím s československým vlčákem Griffinem a fenkou německého ovčáka Warrou. Kromě nich s námi žije ještě sedm seveřanů (sibiřští a aljašští husky). Se všemi jezdíme tréninky a závody psích spřežení a každoročně najezdíme kolem 2000km na saních, tréninkových kárách, koloběžkách a lyžích."
