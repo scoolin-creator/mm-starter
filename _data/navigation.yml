@@ -1,17 +1,15 @@
 main:
-  - title: "Home"
-    url: /home2/
-  - title: "Vycvik"
+  - title: "Domů"
+    url: /domu/
+  - title: "Výcvik"
     url: /tpage/
-  - title: "Tabory"
+  - title: "Výchova a socializace"
     url: /about/
-  - title: "Kryti"
+  - title: "Výcvikové tábory"
     url: /about2/
   - title: "Mushing"
     url: /about3/
-  - title: "NVM"
-    url: /posts/
-  - title: "O me"
+  - title: "O mně"
     url: /tpage/
   #- title: "Categories"
     #url: /categories/
