@@ -6,7 +6,7 @@ header:
   overlay_image: "/assets/images/front_julka_1280x400.jpg"
 excerpt: ".<br><br><br><br><br><br>"
 ---
- # Vztah mezi člověkem a psem – klíč k úspěšnému výcviku
+# Vztah mezi člověkem a psem – klíč k úspěšnému výcviku
 
 Se psy jsem začala pracovat v osmi letech, první byl karelský medvědí pes Finn (Figaro Nalle). Možná díky němu mám hluboký vztah k přírodním a severským plemenům. Schopnost samostatně uvažovat a vyhodnocovat situace dle výhodnosti a bezpečnosti je ve výcviku výrazný prvek, který nátlakovému výcviku brání, ale výcviku ke spolupráci vůbec nepřekáží.
 
