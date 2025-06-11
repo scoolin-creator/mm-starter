@@ -81,10 +81,15 @@ about:
 #    btn_class: "btn--primary"
     btn_label: "Číst víc..." 
 ---
+
 <div id="vycvik"> {% include feature_row id="vycvik" type="left" %} </div>
+
 <div id="vychova"> {% include feature_row id="vychova" type="right" %} </div>
+
 <div id="tabory"> {% include feature_row id="tabory" type="left" %} </div>
+
 <div id="psi"> {% include feature_row id="psi" type="right" %} </div>
+
 <div id="about"> {% include feature_row id="about" type="left" %} </div>
 
-Výcvik je možné začít už ve 3 měsících věku. Můžeme se domluvit na individuálních lekcích či výcvikových procházkách přímo v místě vašeho bydliště (návyk na auto, řešení tahání na vodítku, útočení na psy apod.), kontaktujte mě.
+> Výcvik je možné začít už ve 3 měsících věku. Můžeme se domluvit na individuálních lekcích či výcvikových procházkách přímo v místě vašeho bydliště (návyk na auto, řešení tahání na vodítku, útočení na psy apod.), kontaktujte mě.
