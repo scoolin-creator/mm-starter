@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /nvm
+permalink: /old_home
 hidden: true
 header:
   overlay_color: "#5e616c"

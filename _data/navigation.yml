@@ -6,10 +6,6 @@ main:
   - title: "Výcvikové tábory"
     url: /#tabory
   - title: "Moji psi"
-    url: /about3/
+    url: /dogs/
   - title: "O mně"
-    url: /tpage/
-  #- title: "Categories"
-    #url: /categories/
-  #- title: "Tags"
-    #url: /tags/
+    url: /about/

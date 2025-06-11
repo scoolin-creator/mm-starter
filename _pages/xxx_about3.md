@@ -1,13 +1,12 @@
 ---
-permalink: /about2/
+permalink: /xxx_about3/
 title: "kdo jsem"
-layout: single
-author_profile: true
-excerpt: >
-  . <br> <br> <br>
+excerpt: neco malo o moji velikosti  <br><br><br>
+layout: splash
 header:
-  overlay_image: "/assets/images/front_cumime_1120x400.jpg"
+  overlay_image: "/assets/images/front_cokl_1280x400.jpg"
 ---
+Vycvik nejen ceskoslovenkych vlcaku modernimi metodami, bez pouziti nasili.
 
 Se psy pracuji už více než 26 let a celé to začalo v mém dětství, kdy jsem vyrůstala ve smečce, která mě naučila „mluvit jejich řečí“. Pozorováním jsem získala hluboké porozumění nejen pro komunikaci mezi psy, ale i mezi člověkem a psem. Zkušenosti jsem sbírala v různých oblastech – od agility, přes sportovní kynologii, mushing, dogtrekking až po výstavy. I když mě tyto aktivity nesmírně bavily, pro mě je vždy na prvním místě vztah se psem – důvěra, vzájemný respekt a radost ze spolupráce.
 
