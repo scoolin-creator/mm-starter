@@ -1,6 +1,6 @@
 ---
+layout: single
 permalink: /about/
-#title: "Vztah mezi člověkem a psem – klíč k úspěšnému výcviku"
 header:
 #  image: "/assets/images/front_julka_1280x400.jpg"
   overlay_image: "/assets/images/front_julka_1280x400.jpg"
