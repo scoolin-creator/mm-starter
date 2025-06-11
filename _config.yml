@@ -28,6 +28,8 @@ github_username: username
 minimal_mistakes_skin: dark #neon # air # default
 search: false
 locale: cs-CZ
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
