@@ -5,11 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/front_cokl_1280x400.jpg
-excerpt: <br>
-  Výchova a výcvik psů všech plemen postavená na metodě pozitivní motivace (operantní podmiňování) s individuálním a respektujícím přístupem ke každému psu i jeho majiteli. Náprava problémového chování. Příprava na zkoušky z výkonu.
-  
-  
-  <br />
+excerpt: <br>Výchova a výcvik psů všech plemen postavená na metodě pozitivní motivace (operantní podmiňování) s individuálním a respektujícím přístupem ke každému psu i jeho majiteli. Náprava problémového chování. Příprava na zkoušky z výkonu.<br><br>
 feature_row:
   - image_path: /assets/images/vycvik3_500x300.jpg
     alt: "individualni vycvik"
