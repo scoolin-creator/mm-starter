@@ -26,14 +26,14 @@ psi:
     alt: "moji psi"
     title: "Moji psi"
     excerpt: "V současné době cvičím s československým vlčákem Griffinem a fenkou německého ovčáka Warrou. Kromě nich s námi žije ještě sedm seveřanů (sibiřští a aljašští husky). Se všemi jezdíme tréninky a závody psích spřežení a každoročně najezdíme kolem 2000km na saních, tréninkových kárách, koloběžkách a lyžích."
-    url: "/tpage/"
+    url: "/dogs/"
     btn_label: "Číst víc..."    
 about:
   - image_path: /assets/images/about_500x300.jpg
     alt: "About"
     title: "O mně"
     excerpt: "Cílem mé práce se psy je zlepšit vztah mezi psem a jeho člověkem, pomoci vzájemnému porozumění, naučit žádoucí chování bez nátlaku a v přátelské atmosféře. Sportovní kynologie je nadstavba vztahu a měla by být aktivně a příjemně stráveným společným časem."
-    url: "/tpage/"
+    url: "/about/"
 #    btn_class: "btn--primary"
     btn_label: "Číst víc..." 
 ---
