@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 permalink: /about/
-title: ---
+title: 
 header:
 #  image: "/assets/images/front_julka_1280x400.jpg"
   overlay_image: "/assets/images/front_julka_1280x400.jpg"
