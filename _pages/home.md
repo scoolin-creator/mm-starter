@@ -84,8 +84,8 @@ about:
 {#section-1}
 {% include feature_row id="vycvik" type="left" %}
 {% include feature_row id="vychova" type="right" %}
-{% include feature_row id="tabory" type="left" %}
-{#psi}
+<div id="tabory"> {% include feature_row id="tabory" type="left" %} </div>
+## psi ##
 {% include feature_row id="psi" type="right" %}
 {% include feature_row id="about" type="left" %}
 
