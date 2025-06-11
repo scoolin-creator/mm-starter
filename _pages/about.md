@@ -2,10 +2,10 @@
 layout: single
 classes: wide
 permalink: /about/
+title: ---
 header:
 #  image: "/assets/images/front_julka_1280x400.jpg"
   overlay_image: "/assets/images/front_julka_1280x400.jpg"
-  show_overlay_title: false
 excerpt: ".<br><br><br><br><br><br>"
 ---
 # Vztah mezi člověkem a psem – klíč k úspěšnému výcviku
