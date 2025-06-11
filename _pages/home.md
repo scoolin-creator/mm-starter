@@ -81,9 +81,11 @@ about:
 #    btn_class: "btn--primary"
     btn_label: "Číst víc..." 
 ---
+id="section-1"
 {% include feature_row id="vycvik" type="left" %}
 {% include feature_row id="vychova" type="right" %}
 {% include feature_row id="tabory" type="left" %}
+id="psi"
 {% include feature_row id="psi" type="right" %}
 {% include feature_row id="about" type="left" %}
 
