@@ -3,7 +3,7 @@ layout: single
 classes: wide
 permalink: /about/
 header:
-  image: "/assets/images/front_julka_1280x400.jpg"
+  image: "/assets/images/front_julka_1280x300.jpg"
 #  overlay_image: "/assets/images/front_julka_1280x400.jpg"
 #excerpt: ".<br><br><br><br><br><br>"
 ---
