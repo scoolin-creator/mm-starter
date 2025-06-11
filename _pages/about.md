@@ -4,9 +4,10 @@ permalink: /about/
 header:
 #  image: "/assets/images/front_julka_1280x400.jpg"
   overlay_image: "/assets/images/front_julka_1280x400.jpg"
-excerpt: "Vztah mezi člověkem a psem<br>    – klíč k úspěšnému výcviku<br><br><br><br><br>"
+excerpt: ".<br><br><br><br><br><br>"
 ---
- 
+ # Vztah mezi člověkem a psem – klíč k úspěšnému výcviku
+
 Se psy jsem začala pracovat v osmi letech, první byl karelský medvědí pes Finn (Figaro Nalle). Možná díky němu mám hluboký vztah k přírodním a severským plemenům. Schopnost samostatně uvažovat a vyhodnocovat situace dle výhodnosti a bezpečnosti je ve výcviku výrazný prvek, který nátlakovému výcviku brání, ale výcviku ke spolupráci vůbec nepřekáží.
 
 V roce 1996-7 jsme si pořídili dlouhosrstou kolii Coddyho (Cesar Ivrom), německou ovčačku Terry bez PP (v 6 měsících získanou přes útulek jako naprostý uzlíček nervů) a dalšího útulkáče, křížence bígla Benjiho. Tato smečka mě naučila sociálnímu chování zvířat mezi sebou, odlišnosti povah, citlivosti zrazených a jemných psů. Se všemi třemi jsem chodila na cvičák na "služební výcvik", ale i agility, trénovali jsme stopy a obrany, chodili jsme dogtrekkingové výlety i 100km dlouhé závody. Složili jsme řadu zkoušek z výkonu (např.ZM, ZPU1, BH, A3, ZZO), mnohokrát se umístili na závodech agility včetně titulu ME juniorů (2002) a titulů z MČR a MČR mládeže. Všichni tři se dožili vysokého věku (14 a 15 let).
