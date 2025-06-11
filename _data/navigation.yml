@@ -2,9 +2,9 @@ main:
   - title: "Výcvik"
     url: /#vycvik
   - title: "Výchova a socializace"
-    url: /about/
+    url: /#vychova
   - title: "Výcvikové tábory"
-    url: /about2/
+    url: /#tabory
   - title: "Moji psi"
     url: /about3/
   - title: "O mně"
