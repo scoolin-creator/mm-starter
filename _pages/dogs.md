@@ -4,7 +4,7 @@ classes: wide
 permalink: /dogs/
 title: Moji psi
 header:
-  overlay_image: "/assets/images/mushing_900x300.jpg"
+  image: "/assets/images/mushing_900x300.jpg"
 ---
 
 V současné době cvičím s československým vlčákem Griffinem a fenkou německého ovčáka Warrou. Kromě nich s námi žije ještě sedm seveřanů (sibiřští a aljašští husky). Se všemi jezdíme tréninky a závody psích spřežení a každoročně najezdíme kolem 2000km na saních, tréninkových kárách, koloběžkách a lyžích.
