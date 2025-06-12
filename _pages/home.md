@@ -15,7 +15,7 @@ vychova:
   - image_path: /assets/images/vycvik_500x300.jpg
     alt: "Vychova a socializace"
     title: "Výchova a socializace"
-    excerpt: "Lekce provozní poslušnosti a socializace probíhají na cvičišti ve Zdicích, Úněticích a výcvikové hale Dog Academy Beroun. Pracuji s malou skupinkou psovodů se psy od 3 měsíců do vysokého věku. Lépe jim 'vidím pod ruce' než při hromadném pořadovém cvičení. V těchto lekcích kombinujeme základní ovladatelnost (přivolání od rušivých vlivů, například cizích psů, odložení v rušném prostředí, práce u nohy psovoda), rozvíjení kořistnického pudu a základy aportování, schopnost fungovat za přítomnosti ostatních psů, ale i schopnost komunikovat s různými typy psů. Na mých lekcích se potká čivava, setr, doga i německý ovčák a učí se vzájemně respektovat."
+    excerpt: "Lekce provozní poslušnosti a socializace probíhají na cvičišti ve [Zdicích](https://cvicakunetice.dogres.cz/trainings), [Úněticích](https://cvicakunetice.dogres.cz/trainings) a výcvikové hale [Dog Academy Beroun](https://cvicakunetice.dogres.cz/trainings). Pracuji s malou skupinkou psovodů se psy od 3 měsíců do vysokého věku. Lépe jim 'vidím pod ruce' než při hromadném pořadovém cvičení. V těchto lekcích kombinujeme základní ovladatelnost (přivolání od rušivých vlivů, například cizích psů, odložení v rušném prostředí, práce u nohy psovoda), rozvíjení kořistnického pudu a základy aportování, schopnost fungovat za přítomnosti ostatních psů, ale i schopnost komunikovat s různými typy psů. Na mých lekcích se potká čivava, setr, doga i německý ovčák a učí se vzájemně respektovat."
 tabory:
   - image_path: /assets/images/dog_camp_500x300.jpg
     alt: "vycvikove tabory"
