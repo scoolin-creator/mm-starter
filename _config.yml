@@ -65,7 +65,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Julie Ledvinkova"
+  name   : "Julie Ledvinková"
   avatar : "/assets/images/bio_julka2.jpg"
   bio    : "Individuální výcvik a převýchova nejen československých vlčáků metodou pozitivní motivace, která zlepšuje vztah mezi člověkem a psem, odstraňuje strach a agresivitu, a umožňuje přípravu na zkoušky sportovní kynologie nebo výchovu příjemného společníka."
   location : "Beroun"
@@ -76,9 +76,12 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/cair.potomokvlkov"
-    - label: "Group"
+    - label: "Shadow-training"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/groups/172411483242882"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/wolfdog_training/#"
     - label: "Treninky"
       icon: "fas fa-fw fa-paw"
       url: "https://cvicakunetice.dogres.cz/trainings"
@@ -94,18 +97,18 @@ author:
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/cair.potomokvlkov"
-    - label: "Group"
+    - label: "Shadow-training"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/groups/172411483242882"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/wolfdog_training/#"
     - label: "Treninky"
       icon: "fas fa-fw fa-paw"
       url: "https://cvicakunetice.dogres.cz/trainings"
