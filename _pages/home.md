@@ -10,7 +10,7 @@ vycvik:
   - image_path: /assets/images/vycvik3_500x300.jpg
     alt: "individualni vycvik"
     title: "Výcvik"
-    excerpt: "Nabízím funkční program přípravy na zkoušky sportovní kynologie v kategoriích stopa a poslušnost. Cvičím v tvůrčí atmosféře bez stresu a frustrace, cílem je nadšený pes a jeho sebevědomý vůdce. Výcvik poslušnosti probíhá skupinově i individuálně několikrát v týdnu. V neděli bývá výcvikový den, kdy po poslušnostech následuje nácvik obran s figurantem. Podmínkou k přípravě na zkoušky je plně zvládnutá socializace psa."
+    excerpt: "Nabízím funkční program přípravy na zkoušky sportovní kynologie v kategoriích stopa a poslušnost. Cvičím v tvůrčí atmosféře bez stresu a frustrace, cílem je nadšený pes a jeho sebevědomý vůdce. Výcvik poslušnosti probíhá skupinově i individuálně několikrát v týdnu. V neděli bývá výcvikový den, kdy po poslušnostech následuje nácvik obran s figurantem. Podmínkou k přípravě na zkoušky je plně zvládnutá [socializace](#vychova) psa."
 vychova:
   - image_path: /assets/images/vycvik_500x300.jpg
     alt: "Vychova a socializace"
