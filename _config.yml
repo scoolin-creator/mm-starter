@@ -67,11 +67,7 @@ plugins:
 author:
   name   : "Julie Ledvinková"
   avatar : "/assets/images/bio_julka2.jpg"
-  bio    : "<ul><li>kurzy pro štěňata</li><li>výchova a výcvik psů všech plemen včetně přírodních</li></ul>
-  *příprava na zkoušky z výkonu (stopy, poslušnost)
-  *řešení problémového chování
-  *stopařský výcvik
-  *příprava na bonitaci"
+  bio    : "<ul><li>kurzy pro štěňata</li><li>výchova a výcvik psů všech plemen včetně přírodních</li><li>příprava na zkoušky z výkonu (stopy, poslušnost)</li><li>řešení problémového chování</li><li>stopařský výcvik</li><li>příprava na bonitaci</li></ul>"
   location : "Beroun"
   links:
 #    - label: "Website"
