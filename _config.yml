@@ -67,8 +67,7 @@ plugins:
 author:
   name   : "Julie Ledvinková"
   avatar : "/assets/images/bio_julka2.jpg"
-  bio    : "*kurzy pro štěňata
-  *výchova a výcvik psů všech plemen včetně přírodních
+  bio    : "<ul><li>kurzy pro štěňata</li><li>výchova a výcvik psů všech plemen včetně přírodních</li></ul>
   *příprava na zkoušky z výkonu (stopy, poslušnost)
   *řešení problémového chování
   *stopařský výcvik
