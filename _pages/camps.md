@@ -11,8 +11,8 @@ Pořádám jarní, letní i podzimní týdenní výcvikové pobyty, kde si pes n
 
 #### Kalendář akcí:
   * `15. 8. - 17. 8. 2025  Výcvikový víkend na Valašsku (stopa + poslušnost)`
-  * > 23. 8. - 31. 8. 2025  Výcvikový tábor se zkouškami Nadějkov (stopa+ poslušnost+ obrana)
-  * {14. 9. - 20. 9. 2025  Výcvikový tábor Ranč Esadera (stopa + poslušnost + obrana)}
+  * <p>23. 8. - 31. 8. 2025  Výcvikový tábor se zkouškami Nadějkov (stopa+ poslušnost+ obrana)</p>
+  * <p>14. 9. - 20. 9. 2025  Výcvikový tábor Ranč Esadera (stopa + poslušnost + obrana)</p>
 
 <br>
 
