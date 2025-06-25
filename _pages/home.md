@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/front_cokl_1280x400.jpg
 excerpt: <br>Výchova a výcvik psů všech plemen postavená na metodě pozitivní motivace (operantní podmiňování) s individuálním a respektujícím přístupem ke každému psu i jeho majiteli. Náprava problémového chování. Příprava na zkoušky z výkonu.<br><br>
 vycvik:
-  - image_path: /assets/images/vycvik4_500x300.jpg
+  - image_path: /assets/images/vycvik5_500x300.jpg
     alt: "individualni vycvik"
     title: "Výcvik"
     excerpt: "Nabízím funkční program přípravy na zkoušky sportovní kynologie v kategoriích stopa a poslušnost. Cvičím v tvůrčí atmosféře bez stresu a frustrace, cílem je nadšený pes a jeho sebevědomý vůdce. Výcvik poslušnosti probíhá skupinově i individuálně několikrát v týdnu. V neděli bývá výcvikový den, kdy po poslušnostech následuje nácvik obran s figurantem. Podmínkou k přípravě na zkoušky je plně zvládnutá [socializace](#vychova) psa."
