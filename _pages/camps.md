@@ -4,7 +4,7 @@ classes: wide
 permalink: /camps/
 title: Výcvikové tábory
 header:
-  image: "/assets/images/moji_psi_1280x300.jpg"
+  image: "/assets/images/tabory_1280x300.jpg"
 ---
 
 Pořádám jarní, letní i podzimní týdenní výcvikové pobyty, kde si pes nejlépe upevní naučené chování a dovednosti. Zážitkové tábory jsou nenahraditelné, po týdnu se Shadow training z vás a vašeho psa bude stmelený tým se spoustou nových zkušeností. Na táborech se trénují pachové práce, poslušnost, sportovní obrany, nácvik zkouškového prostředí, výstavy i bonitace. Na konci tábora obvykle organizuji zkoušky z výkonu psů podle NZŘ/MZŘ. Kapacita táborů je omezená, týmům se věnuji opravdu zevrubně.
