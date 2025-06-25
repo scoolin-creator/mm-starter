@@ -4,7 +4,7 @@ main:
   - title: "Výchova a socializace"
     url: /#vychova
   - title: "Výcvikové tábory"
-    url: /#tabory
+    url: /camps/
   - title: "Moji psi"
     url: /dogs/
   - title: "O mně"
