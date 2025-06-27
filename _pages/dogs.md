@@ -14,6 +14,38 @@ gallery:
     image_path: /assets/images/gal03-th.jpg
   - url: /assets/images/gal04.jpg
     image_path: /assets/images/gal04-th.jpg
+  - url: /assets/images/gal05.jpg
+    image_path: /assets/images/gal05-th.jpg
+  - url: /assets/images/gal06.jpg
+    image_path: /assets/images/gal06-th.jpg
+  - url: /assets/images/gal07.jpg
+    image_path: /assets/images/gal07-th.jpg
+  - url: /assets/images/gal08.jpg
+    image_path: /assets/images/gal08-th.jpg
+  - url: /assets/images/gal09.jpg
+    image_path: /assets/images/gal09-th.jpg
+  - url: /assets/images/gal10.jpg
+    image_path: /assets/images/gal10-th.jpg
+  - url: /assets/images/gal11.jpg
+    image_path: /assets/images/gal11-th.jpg
+  - url: /assets/images/gal12.jpg
+    image_path: /assets/images/gal12-th.jpg
+  - url: /assets/images/gal13.jpg
+    image_path: /assets/images/gal13-th.jpg
+  - url: /assets/images/gal14.jpg
+    image_path: /assets/images/gal14-th.jpg
+  - url: /assets/images/gal15.jpg
+    image_path: /assets/images/gal15-th.jpg
+  - url: /assets/images/gal16.jpg
+    image_path: /assets/images/gal16-th.jpg
+  - url: /assets/images/gal17.jpg
+    image_path: /assets/images/gal17-th.jpg
+  - url: /assets/images/gal18.jpg
+    image_path: /assets/images/gal18-th.jpg
+  - url: /assets/images/gal19.jpg
+    image_path: /assets/images/gal19-th.jpg
+  - url: /assets/images/gal20.jpg
+    image_path: /assets/images/gal20-th.jpg
 ---
 
 V současné době cvičím s československým vlčákem Griffinem a fenkou německého ovčáka Warrou. Kromě nich s námi žije ještě sedm seveřanů (sibiřští a aljašští husky). Se všemi jezdíme tréninky a závody psích spřežení a každoročně najezdíme kolem 2000km na saních, tréninkových kárách, koloběžkách a lyžích.
@@ -22,4 +54,4 @@ V současné době cvičím s československým vlčákem Griffinem a fenkou ně
 
 **Warra** (Valli Anrebri) je fena německého ovčáka nar. 7.5.2024. Warru jsem si přivezla jako sedmiměsíční z chovatelské stanice, kde vyrůstala se svou matkou Iris Srdce Perly Bohemie a sestrou Viky. Warra jakožto razantní temperamentní rychlé zvíře bez pořádného zaměstnání začala terorizovat sestru i matku. Původně jsem si ji vzala jen dočasně, že ji trochu poopravím a najdu jí aktivní majitele, ale zatím je stále u nás, přes klikr se učí vášnivě ráda a je čím dál méně problémová. Je to oddané ale superbláznivé zvíře, které nejdřív jedná, pak až přemýšlí. V současné době ji připravuji do chovu a na prvostupňové zkoušku IGP 1 a ZVV 1. Otcem Warry je Williams Robim Anrebri.
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery %}
