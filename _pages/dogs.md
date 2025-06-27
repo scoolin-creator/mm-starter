@@ -47,7 +47,7 @@ gallery:
   - url: /assets/images/gal20.jpg
     image_path: /assets/images/gal20-th.jpg
 ---
-<br>
+<br><br>
 V současné době cvičím s československým vlčákem Griffinem a fenkou německého ovčáka Warrou. Kromě nich s námi žije ještě sedm seveřanů (sibiřští a aljašští husky). Se všemi jezdíme tréninky a závody psích spřežení a každoročně najezdíme kolem 2000km na saních, tréninkových kárách, koloběžkách a lyžích.
 
 **Griffin** (Anik Cairson Vlkošedý král Šumavy) je československý vlčák nar. 7.2.2021.  Je to syn mého Shadowa ([Cair Potomok vlkov](https://cair.websnadno.cz/VYCVIK-CESKOSLOVENSKYCH-VLCAKU.html)) a krásné a chytré Khálí s Divokou krví. Je to velmi citlivý a jemný pes s dobráckou submisivní povahou. Velmi šikovný stopař, na poslušnosti je rychlý a aktivní. Grif se mnou žije - funguje bez vodítka, má spolehlivé odložení, je dobře ovladatelný v jakémkoli prostředí. Nadstavbou je sportovní kynologie, kterou miluje. Zatím má složeno BH-VT, FPr1 a 2 a vyhrané dva závody v ZZO. Griffin je přecitlivělý na povrchy a protože jsem nikam nespěchala, nechala jsem původní paniku odeznít a nyní spoustu dříve problémových míst už neřeší.
