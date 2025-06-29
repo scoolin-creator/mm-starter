@@ -46,6 +46,8 @@ gallery:
     image_path: /assets/images/gal19-th.jpg
   - url: /assets/images/gal20.jpg
     image_path: /assets/images/gal20-th.jpg
+  - url: /assets/images/gal21.jpg
+    image_path: /assets/images/gal21-th.jpg
 ---
 <br><br>
 V současné době cvičím s československým vlčákem Griffinem a fenkou německého ovčáka Warrou. Kromě nich s námi žije ještě sedm seveřanů (sibiřští a aljašští husky). Se všemi jezdíme tréninky a závody psích spřežení a každoročně najezdíme kolem 2000km na saních, tréninkových kárách, koloběžkách a lyžích.
